@@ -56,7 +56,8 @@ public class Arama_Motoru extends HttpServlet {
 		"</FORM></br>"+
 		
 		
-		"</BODY>");
+		"</BODY>"+
+		"</HTML>");
 		
 			
 			
